@@ -137,6 +137,3 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 Amelie Gomez | ameliegomez0@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
