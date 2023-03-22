@@ -71,7 +71,7 @@ Languages used in project are listed here:
 <!-- CONTACT -->
 ## Contact
 
-Amelie Gomez - ameliegomez0@gmai.com
+Amelie Gomez - ameliegomez0@gmail.com
 
 Project Link: [https://github.com/agrnerd17/Breakout-Game](https://github.com/agrnerd17/Breakout-Game)
 
